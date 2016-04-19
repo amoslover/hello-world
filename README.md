@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi there!
+
+I want to try something new on Python.
+It starts today.
